@@ -1,0 +1,11 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "Small-Talk",
+      "CONTAINERMODE": "dialogflow",
+      "DIALOGFLOW_PROJECT_ID": "$THE_PROJECT_ID",
+      "DIALOGFLOW_CLIENT_EMAIL": "$THE_EMAIL",
+      "DIALOGFLOW_PRIVATE_KEY": "-----BEGIN PRIVATE KEY-----\n$THE_KEY\n-----END PRIVATE KEY-----\n"
+    }
+  }
+}

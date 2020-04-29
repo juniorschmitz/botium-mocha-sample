@@ -1,0 +1,7 @@
+smalltalk.greetings.goodnight
+
+#me
+smalltalkgreetingsgoodnight
+
+#bot
+INTENT smalltalk.greetings.goodnight

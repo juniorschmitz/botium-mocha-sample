@@ -1,0 +1,17 @@
+{
+  "name": "botium-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "botium-bindings": "^2.0.30",
+    "botium-connector-dialogflow": "0.0.16",
+    "mocha": "^7.1.2"
+  }
+}

@@ -1,0 +1,7 @@
+smalltalk.agent.be_clever
+
+#me
+smalltalkagentbe_clever
+
+#bot
+INTENT smalltalk.agent.be_clever

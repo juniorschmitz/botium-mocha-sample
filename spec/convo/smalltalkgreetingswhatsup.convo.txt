@@ -1,0 +1,7 @@
+smalltalk.greetings.whatsup
+
+#me
+smalltalkgreetingswhatsup
+
+#bot
+INTENT smalltalk.greetings.whatsup

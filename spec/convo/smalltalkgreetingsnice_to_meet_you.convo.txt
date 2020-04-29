@@ -1,0 +1,7 @@
+smalltalk.greetings.nice_to_meet_you
+
+#me
+smalltalkgreetingsnice_to_meet_you
+
+#bot
+INTENT smalltalk.greetings.nice_to_meet_you

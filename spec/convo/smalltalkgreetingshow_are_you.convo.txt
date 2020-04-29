@@ -1,0 +1,7 @@
+smalltalk.greetings.how_are_you
+
+#me
+smalltalkgreetingshow_are_you
+
+#bot
+INTENT smalltalk.greetings.how_are_you

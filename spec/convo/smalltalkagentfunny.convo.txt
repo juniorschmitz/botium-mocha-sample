@@ -1,0 +1,7 @@
+smalltalk.agent.funny
+
+#me
+smalltalkagentfunny
+
+#bot
+INTENT smalltalk.agent.funny
